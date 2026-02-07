@@ -6,7 +6,7 @@ import "@arcgis/map-components/dist/components/arcgis-map";
 
 <template>
 
-    <arcgis-map zoom="4" center="-92,40"></arcgis-map>
+    <arcgis-map basemap="satellite" zoom="8" center="-92,40"></arcgis-map>
 
 </template>
 
